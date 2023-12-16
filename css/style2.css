@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("../fonts/Oswald-Regular.ttf");
+  }
+html{
+    overflow-x: hidden;
+    background-color: inear-gradient(113deg, #C77700 15.26%, #D4B511 44.66%, #F90 91.59%);
+}
+
+head{
+    background-color: (113deg, #C77700 15.26%, #D4B511 44.66%, #F90 91.59%);
+}
+.text{
+    font-family: Oswald;
+    font-size: 50px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+.text2{
+    font-family: Oswald;
+    font-size: 30px;
+    position: relative;
+    top: 250px;
+    line-height: 1.5;
+    left: 500px;
+}
+body{
+    background-color: linear-gradient(113deg, #C77700 15.26%, #D4B511 44.66%, #F90 91.59%);
+}
